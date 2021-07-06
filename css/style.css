@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  font-family: "M PLUS Rounded 1c", sans-serif;
+  line-height: 25pt;
+  margin: 0px;
+  padding: 0px;
+}
+
+section {
+  background-image: url("/images/fondo.jpg");
+  color: teal;
+  margin: 80px;
+  text-align: justify;
+}
+
+footer {
+  background: rgba(0, 0, 0, 0.76);
+  bottom: 0px;
+  color: white;
+  font-size: 15px;
+  justify-content: space-between;
+  padding: 5px;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
